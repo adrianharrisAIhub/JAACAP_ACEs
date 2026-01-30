@@ -795,7 +795,7 @@ dispar <- race_compare %>%
     outcome 
   ) %>%
   summarise(
-    p_val_count = sum(p_value < 0.05), 
+    p_val_count = sum(p_value <= 0.05), 
     avg_p_value = mean(p_value)
   ) %>%
   mutate(
@@ -809,7 +809,7 @@ dispar <- race_compare %>%
         outcome 
       ) %>%
       summarise(
-        p_val_count = sum(p_value < 0.05), 
+        p_val_count = sum(p_value <= 0.05), 
         avg_p_value = mean(p_value)
       ) %>%
       mutate(
