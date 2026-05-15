@@ -8,4 +8,8 @@ modeling_full_scale_github.R: Code used to make tables and figures in our paper 
 
 modeling_full_scales_RandR_github.R: Code used to make tables and figures in our paper from 09/26/2025 to 12/18/2025 (R and R)
 
-ML_full_scale.R_github.R: Code used to make and test other ML methods that weren't in our paper 
+ML_full_scale.R_github.R: Code used to make and test other ML methods that weren't in our paper
+
+Paper: Accepted and waiting to be published.
+
+Same workflow on a different paper from our lab: "Understanding Protective Factors That Impact Adolescent Suicidal Behaviors Across Race/Ethnicity and Sex" 10.1016/j.jaac.2026.05.003 
