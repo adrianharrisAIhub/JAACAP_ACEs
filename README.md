@@ -12,4 +12,4 @@ ML_full_scale.R_github.R: Code used to make and test other ML methods that weren
 
 Paper: "A Doubly Robust Machine Learning Procedure to Estimate Disparities by Race/Ethnicity and Sex in the Relationship Between Adverse Childhood Experiences and Suicidality" https://doi.org/10.1016/j.jaac.2026.05.005
 
-Same workflow on a different paper from our lab: "Understanding Protective Factors That Impact Adolescent Suicidal Behaviors Across Race/Ethnicity and Sex" 10.1016/j.jaac.2026.05.003
+Same workflow on a different paper from our lab: "Understanding Protective Factors That Impact Adolescent Suicidal Behaviors Across Race/Ethnicity and Sex" https://doi.org/10.1016/j.jaac.2026.05.003
